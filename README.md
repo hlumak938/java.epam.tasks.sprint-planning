@@ -1,9 +1,5 @@
 # Sprint Planning
 
-The purpose of this exercise is to train basic inheritance features.
-
-Estimated workload of this exercise is _120 min_.
-
 ### Description
 
 In this exercise we are going to manage business logic of planning a sprint.
